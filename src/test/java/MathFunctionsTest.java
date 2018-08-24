@@ -25,7 +25,7 @@ public class MathFunctionsTest {
 
     @Test
     public void DivideNumbers() {
-        Assert.assertEquals(6, m.divideNumber(4, 2));
+        Assert.assertEquals(2, m.divideNumber(4, 2));
 
 
     }
