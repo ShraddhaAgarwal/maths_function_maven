@@ -2,7 +2,7 @@ import org.junit.Assert;
 import org.junit.Test;
 public class MathFunctionsTest {
     MathFunctions m = new MathFunctions();
-
+    
     @Test
     public void addNumbers() {
 
